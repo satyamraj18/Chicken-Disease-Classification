@@ -18,3 +18,7 @@ python app.py
 **Built with :**
 
 Python, Machine Learning, Data Version Control, AWS, Flask
+
+**Image of the final Project**
+
+![Website Image](https://github.com/satyamraj18/Chicken-Disease-Classification/blob/main/Website_Image.png)
